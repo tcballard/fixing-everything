@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "source_hash": "734202b86be5392f01ed41018d9d11bc3611199036a201a43bd4cbe007f8f606",
+  "output_hash": "8681ead160602c336e75adeeddc76a0ee35924575add06f06c70a95cdef85022",
+  "private_preview": false,
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "about/index.html": "a37f8c74f508b910b32b7c3681292eef7e2808b86ed5b4814b04cc5e9cfc4fb2",
+    "archive/index.html": "dc0b656e3c1104d90e6fe20a606d0210a7b2a482888f400d572fd1ea29b102d9",
+    "assets/style.css": "a94d21e960427adfb3579fd6f9092524c9a6b308e2f2049d4f5a392ab01479de",
+    "atom.xml": "ba3790086a2f02acdb20a6735a515e66e4a3aec8b707ce6502d763f227774f1d",
+    "favicon.svg": "9fd355b2af13fa1bf4ddf90b6dffae455bb807c1e97596a6a363df32bfa4bb72",
+    "feed.json": "9441acb1d6ceadaeff3a24811c46807eb204e154f960e7589bd07c5c09ff11cb",
+    "index.html": "9afb84cdee9f5e2ac342fdc1d753ef59f84ec9969e353b87e230e1f01f7ad8b8",
+    "robots.txt": "1812a32a9ef19731af3763914e03b7baa2858be2c5ec848ffd4bea2f9860e8ca",
+    "rss.xml": "c85ffd9c74481c8d5c4b6e6e114daec5598103b51f5c73a9b3d0d18b94412bf7",
+    "sitemap.xml": "507917510b18601320799ac3dff1debfc2853fed15a8a894852c5f6796172e46",
+    "the-unofficial-week-in-omarchy/index.html": "4b4e7d1dd5d848d82d0d7a623743ede5248f8931f88fec4913897fa8c0d1debc",
+    "the-unofficial-week-in-omarchy/rss.xml": "82b8c5f7197109b11ed47c42d2e42d4363220a2ecfaeba0f15df8683ebbf8d49",
+    "today-in-omarchy/index.html": "c41a202938c0bcc3b32fb5f7271fd6f02e283554c3ead31fe6565b947a964ce2",
+    "today-in-omarchy/rss.xml": "01d4313d9aa788604b601a91d6ea13d15a93c0b7aa36457cdf04c1abd0d0f4f4"
+  },
+  "articles": {},
+  "feeds": {
+    "atom.xml": "ba3790086a2f02acdb20a6735a515e66e4a3aec8b707ce6502d763f227774f1d",
+    "feed.json": "9441acb1d6ceadaeff3a24811c46807eb204e154f960e7589bd07c5c09ff11cb",
+    "rss.xml": "c85ffd9c74481c8d5c4b6e6e114daec5598103b51f5c73a9b3d0d18b94412bf7",
+    "the-unofficial-week-in-omarchy/rss.xml": "82b8c5f7197109b11ed47c42d2e42d4363220a2ecfaeba0f15df8683ebbf8d49",
+    "today-in-omarchy/rss.xml": "01d4313d9aa788604b601a91d6ea13d15a93c0b7aa36457cdf04c1abd0d0f4f4"
+  }
+}

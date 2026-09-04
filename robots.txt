@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tcballard.github.io/fixing-everything/sitemap.xml

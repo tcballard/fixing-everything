@@ -1,0 +1,9 @@
+{
+  "description": "Independent reporting from the Omarchy ecosystem",
+  "feed_url": "https://tcballard.github.io/fixing-everything/feed.json",
+  "home_page_url": "https://tcballard.github.io/fixing-everything",
+  "items": [],
+  "language": "en-GB",
+  "title": "Fixing Everything",
+  "version": "https://jsonfeed.org/version/1.1"
+}
