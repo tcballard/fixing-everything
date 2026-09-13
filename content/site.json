@@ -1,0 +1,12 @@
+{
+  "name": "Fixing Everything",
+  "author": "Tom Ballard",
+  "url": "https://omarchy.tcballard.dev",
+  "description": "Omarchy writing, practical explanations and projects by Tom Ballard. An independent, unofficial publication.",
+  "companion": {"status":"development-preview", "verifiedOn":"2026-09-13", "ref":"f3e5e07610d2a819d7600331aa17b0c9bd8fd587", "pullRequest":"https://github.com/tcballard/omarchy-101/pull/3"},
+  "projects": [
+    {"name":"Omarchy Arcade","category":"Play","description":"Classic games, brought together in one native Omarchy app. A project to play with and help build.","url":"https://github.com/tcballard/omarchy-retro-arcade"},
+    {"name":"101","category":"Learn","description":"A native learning companion for Omarchy. Short exercises to help you get comfortable with your desktop.","url":"https://github.com/tcballard/omarchy-101","note":"Development preview"},
+    {"name":"Build Omarchy Plugins","category":"Build","description":"Skills for coding agents building Omarchy plugins, from the first idea through to a contribution.","url":"https://github.com/tcballard/build-omarchy-plugins"}
+  ]
+}
