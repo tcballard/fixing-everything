@@ -26,3 +26,7 @@
 7. Run the public build and verify every draft route returns 404 after deployment.
 
 The automated CI workflow performs a clean install, the seven tests, a public build and static checks. The separate manual publication workflow verifies `mode: public` before deployment.
+
+## OSS continuity revision
+
+The live OSS homepage and its existing source styles were inspected. The Omarchy pages now use its exact pale-green/teal palette, Newsreader/Manrope/DM Mono font families, Tom Ballard masthead, shared global navigation and ruled index treatment. Existing article flows and private draft/public build boundaries remain intact. Browser rendering is still not claimed verified.
